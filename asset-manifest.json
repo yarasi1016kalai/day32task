@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/day32task/static/css/main.60b1273c.css",
+    "main.js": "/day32task/static/js/main.cb5fe893.js",
+    "static/js/787.8125c51d.chunk.js": "/day32task/static/js/787.8125c51d.chunk.js",
+    "index.html": "/day32task/index.html",
+    "main.60b1273c.css.map": "/day32task/static/css/main.60b1273c.css.map",
+    "main.cb5fe893.js.map": "/day32task/static/js/main.cb5fe893.js.map",
+    "787.8125c51d.chunk.js.map": "/day32task/static/js/787.8125c51d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60b1273c.css",
+    "static/js/main.cb5fe893.js"
+  ]
+}
